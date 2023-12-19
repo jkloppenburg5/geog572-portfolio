@@ -32,7 +32,7 @@
 .navbar-toggler {
     color: #fff;
     border-color: #fff;
-    background-color: #863ee3;
+    background-color: #4a484b;
     border-radius: 4px;
     border: 1px solid;
     fill: #fff;
@@ -105,7 +105,7 @@ p {
 }
 
 a {
-    color: #863ee3;
+    color: #4a484b;
 }
 
 a:hover {
